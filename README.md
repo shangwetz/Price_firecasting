@@ -26,5 +26,5 @@ Make sure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/linear-regression-price-forecasting.git
+   git clone https://github.com/shangwetz/linear-regression-price-forecasting.git
    cd linear-regression-price-forecasting
